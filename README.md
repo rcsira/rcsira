@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rcsira
+- 👀 I’m interested in Game Development
+- 🌱 I’m honing my game development skills especially in programming.
+- 💞️ I’m planning to contribute in Godot Engine if I know how to code in C++
